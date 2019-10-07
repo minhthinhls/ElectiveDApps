@@ -1,4 +1,4 @@
-pragma solidity 0.5.0;
+pragma solidity ^0.5.0;
 
 contract Election {
     struct Candidate {// Model a Candidate !
